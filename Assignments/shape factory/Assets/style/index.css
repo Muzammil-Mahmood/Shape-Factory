@@ -1,0 +1,49 @@
+@import './reset.css';
+
+
+body {
+    background-color: #000000;
+    height: 100vh;
+}
+
+h2 {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 40px;
+}
+
+form {
+    text-align: center;
+    margin-top: 30px;
+    margin-inline: 15px;
+}
+
+form .shape {
+    font-size: 30px;
+    border-radius: 7px;
+    padding: auto;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+form .color {
+    font-size: 30px;
+    border-radius: 7px;
+    padding: auto;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+form .button {
+    font-size: 30px;
+    border-radius: 7px;
+    background-color: orangered;
+    color: #fff;
+    padding: auto;
+    text-align: center;
+}
+
+.grid {
+    background-color: rgb(116, 114, 114);
+}
