@@ -44,6 +44,10 @@ form .button {
     text-align: center;
 }
 
-.grid {
-    background-color: rgb(116, 114, 114);
+.form .square {
+   height: 600px;
+   width: 750px;
+   background-color: #1a1a1a;
+   margin-top: 20px;
+   margin-left: 550px;
 }
